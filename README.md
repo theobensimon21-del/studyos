@@ -1,1 +1,1 @@
-# studyos-web
+# studyos
